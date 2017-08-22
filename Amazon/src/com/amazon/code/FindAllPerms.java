@@ -1,4 +1,4 @@
-package com.amazon.test;
+package com.amazon.code;
 
 public class FindAllPerms {
 

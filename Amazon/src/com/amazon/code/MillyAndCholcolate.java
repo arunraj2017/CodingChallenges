@@ -1,4 +1,4 @@
-package com.amazon.test;
+package com.amazon.code;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
